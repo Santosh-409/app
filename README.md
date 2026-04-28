@@ -94,7 +94,7 @@ A comprehensive full-stack web application for tracking investments, monitoring 
 ### Database
 - **MySQL 8.0+** - Relational database
 
-## 📋 Prerequisites
+##  Prerequisites
 
 Before you begin, ensure you have the following installed on your system:
 
@@ -125,7 +125,7 @@ mysql --version
 git --version
 ```
 
-## 💻 Installation
+##  Installation
 
 ### Step 1: Clone the Repository
 
@@ -149,7 +149,7 @@ npm install
 cd ..
 ```
 
-## 🗄 Database Setup
+##  Database Setup
 
 ### Step 1: Start MySQL Server
 
@@ -223,7 +223,7 @@ DB_NAME=portfoliomate
 JWT_SECRET=your_secret_key_here_change_in_production
 ```
 
-## 🚀 Running the Application
+##  Running the Application
 
 ### Option 1: Run Both Frontend and Backend Together
 
@@ -257,7 +257,7 @@ concurrently "cd backend && npm start" "npm run dev"
 - **Backend API:** http://localhost:5000
 - **API Health Check:** http://localhost:5000/api/health
 
-## 📚 API Documentation
+##  API Documentation
 
 ### Authentication Endpoints
 
@@ -292,7 +292,7 @@ concurrently "cd backend && npm start" "npm run dev"
 | GET | `/api/dashboard/recent-transactions` | Recent transactions |
 | GET | `/api/dashboard/complete` | Complete dashboard data |
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 portfoliomate/
@@ -353,7 +353,7 @@ portfoliomate/
 └── vite.config.ts
 ```
 
-## 🖼 Screenshots
+##  Screenshots
 
 ### Login Page
 ![Login](https://github.com/Santosh-409/app/blob/main/PortfolioMate(Project)/images/Login%20ss.png)
@@ -373,7 +373,7 @@ portfoliomate/
 ### Portfolio 
 ![Portfolio](https://github.com/Santosh-409/app/blob/main/PortfolioMate(Project)/images/PortfolioMate%20ss.png)
 
-## 🔮 Future Enhancements
+##  Future Enhancements
 
 - [ ] Real-time stock price integration (Alpha Vantage, Yahoo Finance)
 - [ ] Email notifications for price alerts
@@ -386,7 +386,7 @@ portfoliomate/
 - [ ] AI-powered investment recommendations
 - [ ] Import from brokerages
 
-## 🐛 Troubleshooting
+##  Troubleshooting
 
 ### Common Issues
 
@@ -432,7 +432,7 @@ Error: Invalid token
 - Re-login to generate new token
 - Check JWT_SECRET is set correctly
 
-## 🤝 Contributing
+##  Contributing
 
 1. Fork the repository
 2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
@@ -440,11 +440,11 @@ Error: Invalid token
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-## 📄 License
+##  License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## 🙏 Acknowledgments
+##  Acknowledgments
 
 - [shadcn/ui](https://ui.shadcn.com/) for beautiful UI components
 - [Recharts](https://recharts.org/) for interactive charts
