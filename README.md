@@ -29,9 +29,7 @@ A comprehensive full-stack web application for tracking investments, monitoring 
 
 
 
-
 ## 📋 Table of Contents
-
 - [Features](#features)
 - [Tech Stack](#tech-stack)
 - [Prerequisites](#prerequisites)
@@ -42,8 +40,9 @@ A comprehensive full-stack web application for tracking investments, monitoring 
 - [Project Structure](#project-structure)
 - [Screenshots](#screenshots)
 - [Future Enhancements](#future-enhancements)
+- [Troubleshooting](#troubleshooting)
 
-## ✨ Features
+## Features
 
 ### User Features
 - 🔐 **Secure Authentication** - JWT-based login/registration system
@@ -71,7 +70,7 @@ A comprehensive full-stack web application for tracking investments, monitoring 
 - Recent transactions
 - Profit/Loss calculations
 
-## 🛠 Tech Stack
+## Tech Stack
 
 ### Frontend
 - **React 18** - Modern UI library
