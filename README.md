@@ -24,7 +24,7 @@ A comprehensive full-stack web application for tracking investments, monitoring 
 | 4  | 📊 Final PPT (PPTX) | [Download PPTX](https://github.com/Santosh-409/app/blob/main/PPT/PortfolioMate%20ppt(final).pptx) |
 | 5  | 📋 Course Report — Santosh (RA2411030030063) | [View PDF](https://github.com/Santosh-409/app/blob/main/Course%20Certificate/RA2411030030063_Course%20Certificate.pdf) |
 | 6  | 📋 Course Report — Siddharth (RA2411030030076) | [View PDF](https://github.com/Santosh-409/app/blob/main/Course%20Report/RA2411030030076_Course_Report.pdf) |
-| 7  | 🏅 Certificate — Santosh (RA2411030030063) | [View PDF](https://github.com/Santosh-409/app/blob/main/certificate/santosh%20certificate.pdf) |
+| 7  | 🏅 Certificate — Santosh (RA2411030030063) | [View PDF](https://github.com/Santosh-409/app/blob/main/Course%20Certificate/RA2411030030063_Course%20Certificate.pdf) |
 | 8  | 🏅 Certificate — Siddharth (RA2411030030076) | [View PDF](https://github.com/Santosh-409/app/blob/main/Course%20Certificate/RA2411030030076_Course%20Certificate.pdf) |
 
 
