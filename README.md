@@ -10,8 +10,8 @@ A comprehensive full-stack web application for tracking investments, monitoring 
 
 
 # Project Members
-1. Santosh--->      RA2411030030063
-2. Siddharth Sagar-RA2411030030076
+1. Santosh--->       RA2411030030063
+2. Siddharth Sagar-> RA2411030030076
 
 
 ## 📁 Project Documents
@@ -357,19 +357,22 @@ portfoliomate/
 ## 🖼 Screenshots
 
 ### Login Page
-![Login](screenshots/login.png)
+![Login](https://github.com/Santosh-409/app/blob/main/PortfolioMate(Project)/images/Login%20ss.png)
 
 ### Dashboard
-![Dashboard](screenshots/dashboard.png)
+![Dashboard](https://github.com/Santosh-409/app/blob/main/PortfolioMate(Project)/images/Dashboard%20ss.png)
 
 ### Investments List
-![Investments](screenshots/investments.png)
+![Investments](https://github.com/Santosh-409/app/blob/main/PortfolioMate(Project)/images/Investment%20list%20ss.png)
 
 ### Add Investment
-![Add Investment](screenshots/add-investment.png)
+![Add Investment](https://github.com/Santosh-409/app/blob/main/PortfolioMate(Project)/images/Add%20Investment%20s.png)
 
 ### Portfolio Analytics
-![Analytics](screenshots/analytics.png)
+![Analytics](https://github.com/Santosh-409/app/blob/main/PortfolioMate(Project)/images/Analytics%20ss.png)
+
+### Portfolio 
+![Portfolio](https://github.com/Santosh-409/app/blob/main/PortfolioMate(Project)/images/PortfolioMate%20ss.png)
 
 ## 🔮 Future Enhancements
 
@@ -450,7 +453,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Support
 
-For support, email support@portfoliomate.com or join our Slack channel.
+For support, email dreamachieve409@gmail.com  
+
 
 ---
 
