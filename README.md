@@ -28,7 +28,6 @@ A comprehensive full-stack web application for tracking investments, monitoring 
 | 8  | 🏅 Certificate — Siddharth (RA2411030030076) | [View PDF](https://github.com/Santosh-409/app/blob/main/certificate/course%20certificate(siddharth).pdf) |
 
 
-
 ## 📋 Table of Contents
 - [Features](#features)
 - [Tech Stack](#tech-stack)
