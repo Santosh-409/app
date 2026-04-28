@@ -18,14 +18,14 @@ A comprehensive full-stack web application for tracking investments, monitoring 
 
 | Sr | Description | Link |
 |----|-------------|------|
-| 1  | 💻 Project Code (Entire Repository) | [View on GitHub](https://github.com/Santosh-409/app) |
+| 1  | 💻 Project Code (Entire Repository) | [View on GitHub](https://github.com/Santosh-409/app/tree/main/PortfolioMate(Project)) |
 | 2  | 📝 Project Report (DBMS) | [View PDF](https://github.com/Santosh-409/app/blob/main/Project%20report/Final%20project%20report(DBMS).pdf) |
 | 3  | 📊 Initial PPT (PDF) | [View PDF](https://github.com/Santosh-409/app/blob/main/PPT/PortfolioMate%20PPT(Initial).pdf) |
 | 4  | 📊 Final PPT (PPTX) | [Download PPTX](https://github.com/Santosh-409/app/blob/main/PPT/PortfolioMate%20ppt(final).pptx) |
-| 5  | 📋 Course Report — Santosh (RA2411030030063) | [View PDF](https://github.com/Santosh-409/app/blob/main/Course%20Report/Final%20course%20Report.pdf) |
-| 6  | 📋 Course Report — Siddharth (RA2411030030076) | [View PDF](https://github.com/Santosh-409/app/blob/main/Course%20Report/Final%20course%20report%20(Siddharth).pdf) |
+| 5  | 📋 Course Report — Santosh (RA2411030030063) | [View PDF](https://github.com/Santosh-409/app/blob/main/Course%20Certificate/RA2411030030063_Course%20Certificate.pdf) |
+| 6  | 📋 Course Report — Siddharth (RA2411030030076) | [View PDF](https://github.com/Santosh-409/app/blob/main/Course%20Report/RA2411030030076_Course_Report.pdf) |
 | 7  | 🏅 Certificate — Santosh (RA2411030030063) | [View PDF](https://github.com/Santosh-409/app/blob/main/certificate/santosh%20certificate.pdf) |
-| 8  | 🏅 Certificate — Siddharth (RA2411030030076) | [View PDF](https://github.com/Santosh-409/app/blob/main/certificate/course%20certificate(siddharth).pdf) |
+| 8  | 🏅 Certificate — Siddharth (RA2411030030076) | [View PDF](https://github.com/Santosh-409/app/blob/main/Course%20Certificate/RA2411030030076_Course%20Certificate.pdf) |
 
 
 ## 📋 Table of Contents
